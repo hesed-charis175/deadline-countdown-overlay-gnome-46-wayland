@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist>
+  <schema id="org.gnome.shell.extensions.deadline"
+          path="/org/gnome/shell/extensions/deadline/">
+    <key name="deadline" type="s">
+      <default>'2025-12-25T20:00:00'</default>
+      <summary>Target deadline</summary>
+      <description>ISO 8601 date-time string</description>
+    </key>
+    <key name="title" type="s">
+      <default>''</default>
+      <summary>Overlay title</summary>
+      <description>Custom text shown above the countdown</description>
+    </key>
+  </schema>
+</schemalist>
+

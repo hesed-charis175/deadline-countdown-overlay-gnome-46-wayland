@@ -1,0 +1,7 @@
+{
+  "uuid": "deadline@overlay",
+  "name": "Deadline Countdown Overlay",
+  "description": "Click-through deadline overlay",
+  "shell-version": ["46"]
+}
+
